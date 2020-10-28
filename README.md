@@ -1,5 +1,5 @@
 # python simple password manager
-A small simple password manager written in python. It contains one python file and generates a .dat file with your encrypted passwords.
+A small simple password manager written in python ("py_pwm.py"). It contains one python file and generates a .dat file with your encrypted passwords.
 
 You need Python3 and the following two libraries:<br>
 pip3 install rncryptor<br>
