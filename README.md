@@ -15,6 +15,6 @@ The basic idea is to be able to carry the most important passwords around in you
 This is basically all there is, in regards to user options. Your are welcome to change the script in anyway you like... 
 ![Simple UI](python_password_manager.png)
 
-Just download "the py_pwm.py" file and execute it... The first run creates the "my_manager.dat" file and encrypt it with your choosen password. 
+Just download <b>"the py_pwm.py"</b> file and execute it... The first run creates the "my_manager.dat" file and encrypt it with your choosen password. 
 
 
